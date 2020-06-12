@@ -1,5 +1,5 @@
-# coursera-module-2-solution
-Module 2 Solution for Coursera HTML, CSS, JS Course
+# coursera-modules-solution
+Modules Solution for Coursera HTML, CSS, JS Course
 
 ## Assignments
 
