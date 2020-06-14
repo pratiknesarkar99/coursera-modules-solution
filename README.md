@@ -8,3 +8,6 @@ Modules Solution for Coursera HTML, CSS, JS Course
 
 ### Module 3
 * [Solution](https://pratiknesarkar99.github.io/coursera-modules-solution/module3-solution/index.html)
+
+### Module 4
+* [Solution](https://pratiknesarkar99.github.io/coursera-modules-solution/module4-solution/index.html)
